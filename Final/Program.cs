@@ -39,7 +39,7 @@ The outer foreach loop is used to:
 - assign a student's grades to the studentScores array
 - calculate exam and extra credit sums (inner foreach loop)
 - calculate numeric and letter grade
-- write the score report information
+- write the score report informationn
 */
 foreach (string name in studentNames)
 {
